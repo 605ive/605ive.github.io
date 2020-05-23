@@ -29,10 +29,10 @@
       </div>
       <div class="col-md-6 footer-box" align="right">
         <p class="footer-title">{HEADING}</p>
-        <p>
+        <!--<p>
           <i class="fas fa-map-marker-alt" />
           {ADDRESS}
-        </p>
+        </p>-->
         <p>
           <i class="fas fa-phone" />
           {MOBILE}
